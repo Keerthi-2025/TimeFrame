@@ -21,5 +21,13 @@ This project highlights my ability to:
 - Deliver engaging and user-centered product experiences using **Figma**  
 
 ---
+## 🎨 Prototype  
 
-🔗 **[View Prototype in Figma](your-figma-link-here)**
+👉 [View Figma Prototype](https://www.figma.com/proto/N1HdfY8Pu3FANVuiqbFn3V/Watch?node-id=2021-129&t=uejBdTfI4MFPrjeG-1&starting-point-node-id=2021%3A129)  
+
+---
+
+## 🎥 Demo  
+
+▶️ [Watch Demo Video](https://drive.google.com/file/d/15GETkviPm28gSYdhrigNf6M5b6DrleC0/preview)
+
